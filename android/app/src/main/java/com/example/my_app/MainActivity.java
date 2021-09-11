@@ -1,4 +1,4 @@
-package com.cheneth.receipt_bubble;
+package com.tamuhack.justsplit;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
